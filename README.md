@@ -59,3 +59,8 @@ https://freesound.org/people/Jofae/sounds/364692/
 https://freesound.org/people/JustInvoke/sounds/446111/
 
 
+
+## CLAIMER
+
+If you want to use my beanfish sprites, background sprite, UI icons please contact me through samuel0004park@gmail.com
+
