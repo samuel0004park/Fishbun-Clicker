@@ -1,5 +1,8 @@
-#Fishbun Clicker
-#붕어빵 키우기
+# 붕어빵 키우기
+### Beanfish Clicker
+
+
+## Video Demonstration
 
 Check youtube video for demo and game play
 
@@ -7,6 +10,8 @@ youtube link:
 - https://youtu.be/el31k8CwSAs
 - https://youtu.be/yN00r9iaIuU
 
+
+## CREDIT
 
 Again, credit for the awsome BGM, SFX
 
