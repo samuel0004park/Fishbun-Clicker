@@ -1,0 +1,1 @@
+{"Items":[{"goldAmount":1384,"jelatineAmount":569,"unlockList":[true,true,false,false,false,false,false,false,false,false,false,false],"idSave":[0],"levelSave":[3],"expSave":[103.0001449584961],"numLevel":1,"clickLevel":1,"tempJellyList":[{"instanceID":-29640}]}]}
