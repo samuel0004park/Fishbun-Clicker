@@ -65,19 +65,21 @@ Creative Commons CC BY 3.0
 https://creativecommons.org/licenses/by/3.0/
 
 SFX- 
-https://freesound.org/people/Mellau/sounds/506053/?
+Button Click 2.wav by Mellau -- https://freesound.org/s/506053/ -- License: Attribution NonCommercial 4.0
 
-https://freesound.org/people/kickhat/sounds/264446/
+Open button 1 by kickhat -- https://freesound.org/s/264446/ -- License: Creative Commons 0
 
-https://freesound.org/people/Vilkas_Sound/sounds/707040/
+VS Button Click 03.mp3 by Vilkas_Sound -- https://freesound.org/s/707040/ -- License: Attribution 4.0
 
-https://freesound.org/people/GameAudio/sounds/220206/
+Beep Space Button by GameAudio -- https://freesound.org/s/220206/ -- License: Creative Commons 0
 
-https://freesound.org/people/Jofae/sounds/364692/
+Comical Sprout by Jofae -- https://freesound.org/s/364692/ -- License: Creative Commons 0
 
-https://freesound.org/people/JustInvoke/sounds/446111/
+Success Jingle by JustInvoke -- https://freesound.org/s/446111/ -- License: Attribution 4.0
 
+Coins Purchase 02 by rhodesmas -- https://freesound.org/s/321262/ -- License: Attribution 3.0
 
+Coin SFX by camtheman28 -- https://freesound.org/s/758966/ -- License: Attribution NonCommercial 4.0
 
 ## CLAIMER
 
